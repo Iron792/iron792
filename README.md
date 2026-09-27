@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  IRONIX7 | GITHUB PROFILE                      -->
+<!--                  IRONIC7 | GITHUB PROFILE                      -->
 <!--                    TEAL CYAN THEME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -8,7 +8,7 @@
   <!-- ANIMATED INTRO -->
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Manish+Chidar+%F0%9F%91%8B;Android+Developer+%7C+Full-Stack+Developer;Building+Ideas+Into+Reality;Welcome+to+My+Digital+Workshop!" alt="Ironix7 Animated Intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Iron7+%F0%9F%91%8B;Android+Developer+%7C+Full-Stack+Developer;Building+Ideas+Into+Reality;Welcome+to+My+Digital+Workshop!" alt="Ironix7 Animated Intro"/>
   </a>
 
   <br/>
