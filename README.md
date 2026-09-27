@@ -1,80 +1,522 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    IRONIX7 | GITHUB PROFILE                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════ HERO ═══════════════ -->
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manish+Chidar+%F0%9F%91%8B;Android+Developer+%7C+Full-Stack+Developer;Building+Ideas+Into+Reality;Welcome+to+My+Digital+Workshop!" alt="Typing SVG" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:5C1010,100:B22222&height=200&section=header&text=MANISH%20CHIDAR&fontSize=48&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=ANDROID%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=60&descSize=17&descColor=00D9FF" width="100%"/>
+  <br/>
 
-<br/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:8B0000,100:FFD700&height=180&section=header&text=IRONIX7&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Create.%20Innovate.&descAlignY=55&descSize=20" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Manish+Chidar;Android+Developer+%7C+Kotlin+Enthusiast;Building+Apps+That+Feel+Alive;AI+%26+Full-Stack+Developer;Turning+Ideas+Into+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <br/>
 
-<br/>
+  <h3>
+    🚀 Android Developer | Full-Stack Developer | Tech Enthusiast
+  </h3>
 
-### `< Building the Future, One App at a Time />`
+  <p>
+    <i>Turning ideas into applications, one line of code at a time.</i>
+  </p>
 
-**Android Developer | AI Enthusiast | Full-Stack Developer**
+  <br/>
 
-📍 Bhopal, India &nbsp;|&nbsp; 🎓 B.Tech IT Student &nbsp;|&nbsp; ⚡ Ironix7
+  <!-- Social Badges -->
+  <a href="https://www.iron7.me/">
+    <img src="https://img.shields.io/badge/Portfolio-IRON7.ME-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Iron792">
+    <img src="https://img.shields.io/badge/GitHub-Iron792-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@TechStark7">
+    <img src="https://img.shields.io/badge/YouTube-TechStark7-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://t.me/techstark7">
+    <img src="https://img.shields.io/badge/Telegram-TechStark7-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 
-<br/>
+  <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iron7.me-B22222?style=for-the-badge&logo=googlechrome&logoColor=FFD700)](https://www.iron7.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-Iron792-181717?style=for-the-badge&logo=github)](https://github.com/Iron792)
-[![YouTube](https://img.shields.io/badge/YouTube-TechStark7-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TechStark7)
-[![Telegram](https://img.shields.io/badge/Telegram-TechStark7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/techstark7)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Iron792&style=for-the-badge&color=B22222&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Iron792&label=PROFILE%20VIEWS&color=E63946&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Hey! I'm **Manish Chidar**, an Android developer and technology enthusiast who loves building applications that combine intelligent functionality with beautiful user experiences.
+<h2 align="center">⚡ About Me</h2>
 
-I'm currently pursuing a **B.Tech in Information Technology** at Oriental College of Technology, Bhopal.
+<div align="center">
 
-My interests span Android development, artificial intelligence, full-stack engineering, cybersecurity, and emerging technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Passionate+about+Android+Development;Building+Smart+and+Modern+Applications;Always+Learning+Something+New" alt="About Me Typing" />
 
-I enjoy turning ideas into functional applications, experimenting with new technologies, and building software that solves real-world problems.
+</div>
 
-```kotlin
-package com.ironix7.developer
+<br/>
 
-data class Developer(
-    val name: String,
-    val alias: String,
-    val role: String,
-    val interests: List<String>,
-    val currentlyBuilding: List<String>
-)
+<table align="center">
+  <tr>
+    <td><b>👤 Name</b></td>
+    <td>Manish Chidar</td>
+  </tr>
+  <tr>
+    <td><b>🏷️ Brand</b></td>
+    <td>Ironix7</td>
+  </tr>
+  <tr>
+    <td><b>📍 Location</b></td>
+    <td>Bhopal, Madhya Pradesh, India</td>
+  </tr>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>B.Tech in Information Technology</td>
+  </tr>
+  <tr>
+    <td><b>🏫 College</b></td>
+    <td>Oriental College of Technology, Bhopal</td>
+  </tr>
+  <tr>
+    <td><b>📱 Primary Focus</b></td>
+    <td>Android Development & Mobile Applications</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Also Working With</b></td>
+    <td>Web Development, AI & Backend Technologies</td>
+  </tr>
+  <tr>
+    <td><b>💡 Currently Exploring</b></td>
+    <td>Modern Android, AI Integration & Full-Stack Development</td>
+  </tr>
+</table>
 
-val manish = Developer(
-    name = "Manish Chidar",
-    alias = "Ironix7",
-    role = "Android Developer",
-    interests = listOf(
-        "Android Development",
-        "Artificial Intelligence",
-        "Full-Stack Development",
-        "Cybersecurity",
-        "Web3 & Blockchain"
-    ),
-    currentlyBuilding = listOf(
-        "Music X",
-        "xTune",
-        "Nova AI"
-    )
-)
+<br/>
 
-fun main() {
-    while (true) {
-        learn()
-        build()
-        innovate()
-        repeat()
-    }
-}
+<div align="center">
+
+  <p>
+    I'm a developer passionate about building useful, modern, and
+    user-friendly applications. My primary focus is Android development
+    using Java, Kotlin, and Jetpack Compose, along with full-stack
+    web development and AI-powered applications.
+  </p>
+
+  <p>
+    From creating offline music players and voice assistants to building
+    web applications, I enjoy transforming ideas into real-world projects.
+  </p>
+
+  <p>
+    <b>My philosophy:</b> Learn continuously. Build creatively. Improve relentlessly.
+  </p>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         QUICK STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 Quick Stats</h2>
+
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>💻 Development</td>
+    <td>Android & Full-Stack Web</td>
+  </tr>
+  <tr>
+    <td>📱 Android Stack</td>
+    <td>Java, Kotlin, Jetpack Compose</td>
+  </tr>
+  <tr>
+    <td>🌐 Web Stack</td>
+    <td>React, Next.js, TypeScript</td>
+  </tr>
+  <tr>
+    <td>🤖 AI Integration</td>
+    <td>OpenAI, Gemini, ML Kit</td>
+  </tr>
+  <tr>
+    <td>🛠️ Development Tools</td>
+    <td>Android Studio, VS Code, Git</td>
+  </tr>
+  <tr>
+    <td>🔥 Current Brand</td>
+    <td>Ironix7</td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECHNICAL ARSENAL                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+
+  <h3>📱 Android Development</h3>
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white" />
+
+  <br/><br/>
+
+  <h3>⚙️ Android Architecture & Libraries</h3>
+
+  <img src="https://img.shields.io/badge/MVVM-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Glide-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Media3-3DDC84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CameraX-4285F4?style=for-the-badge" />
+
+  <br/><br/>
+
+  <h3>🌐 Web Development</h3>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <br/><br/>
+
+  <h3>🗄️ Database & Backend</h3>
+
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+
+  <br/><br/>
+
+  <h3>🤖 AI & Machine Learning</h3>
+
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+  <br/><br/>
+
+  <h3>☁️ Tools & Platforms</h3>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATISTICS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<div align="center">
+
+  <a href="https://github.com/Iron792">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iron792&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E63946&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/Iron792">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron792&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=FFFFFF" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iron792&theme=radical&hide_border=true&background=0D1117&ring=E63946&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iron792&theme=radical" width="95%" alt="GitHub Profile Summary" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION GRAPH                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🔥 Contribution Activity</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iron792&bg_color=0D1117&color=FFFFFF&line=E63946&point=FFD700&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FEATURED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+  <p>
+    A collection of applications and experiments built with a focus on
+    functionality, user experience, and modern technology.
+  </p>
+
+</div>
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>🎵 Music X</b>
+    </td>
+    <td>
+      An offline Android music player with local music library,
+      synchronized lyrics, dynamic themes, favorites, playlists,
+      album art, and media notifications.
+    </td>
+    <td>
+      Java, Android SDK, MediaSession, Glide, Jsoup
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>🎧 xTune</b>
+    </td>
+    <td>
+      A music streaming web application integrating JioSaavn
+      and YouTube with search, playback, lyrics, and a modern
+      music-player interface.
+    </td>
+    <td>
+      React, Next.js, TypeScript, APIs
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>🤖 Nova AI</b>
+    </td>
+    <td>
+      An AI-powered Android assistant featuring voice interaction,
+      speech recognition, text-to-speech, and hands-free functionality.
+    </td>
+    <td>
+      Kotlin, Android, AI APIs, Speech Recognition, TTS
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>📄 X Doc Scanner</b>
+    </td>
+    <td>
+      A document-scanning Android application designed to simplify
+      document capture and scanning with Google's ML Kit.
+    </td>
+    <td>
+      Kotlin, Jetpack Compose, ML Kit
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>💬 ChatGPT Clone</b>
+    </td>
+    <td>
+      An Android conversational AI application with API-powered
+      responses, voice input, text-to-speech, and hands-free interaction.
+    </td>
+    <td>
+      Java, Android, OpenAI API, TTS, Speech Recognition
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>🛒 X Cart</b>
+    </td>
+    <td>
+      An e-commerce application concept focused on shopping,
+      payment integration, location services, and modern user experience.
+    </td>
+    <td>
+      Android, Kotlin, Firebase, Razorpay, Google Maps
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>🌐 Developer Portfolio</b>
+    </td>
+    <td>
+      My personal portfolio showcasing my development journey,
+      projects, technical skills, and contact information.
+    </td>
+    <td>
+      React, Next.js, TypeScript, Vercel
+    </td>
+  </tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/Iron792?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.iron7.me/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CERTIFICATIONS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 Certifications & Learning</h2>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <th>Certification / Program</th>
+      <th>Organization</th>
+    </tr>
+    <tr>
+      <td>Introduction to Generative AI</td>
+      <td>Google Cloud / Coursera</td>
+    </tr>
+    <tr>
+      <td>Jetpack Compose Course</td>
+      <td>Android Development</td>
+    </tr>
+    <tr>
+      <td>Data Visualization Internship</td>
+      <td>TATA / Forage</td>
+    </tr>
+    <tr>
+      <td>Android Development Course</td>
+      <td>Udemy</td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <p>
+    📚 Continuously learning and exploring new technologies
+    to improve my development skills.
+  </p>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         LET'S CONNECT                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+  <p>
+    Have an idea, collaboration opportunity, or interesting project?
+    Feel free to connect with me!
+  </p>
+
+  <a href="https://www.iron7.me/">
+    <img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:developermanish79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/@TechStark7">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/techstark7">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Iron792">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <h3>⚡ Building the Future, One App at a Time.</h3>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:141414&height=120&section=footer" width="100%" />
+
+  <p>
+    <b>Designed with ❤️ by Manish Chidar | Ironix7</b>
+  </p>
+
+  <p>
+    <i>"Great things are built, not imagined."</i>
+  </p>
+
+  <img src="https://img.shields.io/badge/IRONIX7-Developer%20Mode-E63946?style=flat-square&logo=android&logoColor=white" />
+
+</div>
