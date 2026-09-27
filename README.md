@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    IRONIX7 | GITHUB PROFILE                    -->
-<!--                  TEAL CYAN • ELECTRIC BLUE                      -->
+<!--                  IRONIX7 | GITHUB PROFILE                      -->
+<!--              TEAL CYAN • ELECTRIC BLUE THEME                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -13,17 +13,13 @@
 
   <br/>
 
-  <!-- HERO BANNER -->
+  <!-- HEADER BANNER -->
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:003B49,75:007F91,100:00E5FF&height=200&section=header&text=IRONIX7&fontSize=70&fontColor=EAFBFF&animation=fadeIn&fontAlignY=35&desc=Code.%20Create.%20Innovate.&descAlignY=57&descSize=22" width="100%" />
 
   <br/>
 
-  <h3>
-    <font color="#00E5FF">
-      🚀 Android Developer | Full-Stack Developer | Tech Enthusiast
-    </font>
-  </h3>
+  <h3>🚀 Android Developer | Full-Stack Developer | Tech Enthusiast</h3>
 
   <p>
     <i>Turning ideas into applications, one line of code at a time.</i>
@@ -61,9 +57,7 @@
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/ABOUT_ME-00B4D8?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-</h2>
+<h2 align="center">⚡ About Me</h2>
 
 <div align="center">
 
@@ -202,17 +196,17 @@
 
 <div align="center">
 
-  <!-- ANDROID -->
+  <!-- ANDROID DEVELOPMENT -->
 
   <h3>📱 Android Development</h3>
 
-  <img src="https://img.shields.io/badge/Java-00B4D8?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-00B4D8?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-00B4D8?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Material_3-007F91?style=for-the-badge&logo=materialdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-00B4D8?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white" />
 
   <br/><br/>
 
@@ -246,7 +240,7 @@
 
   <br/><br/>
 
-  <!-- BACKEND AND DATABASE -->
+  <!-- DATABASE AND BACKEND -->
 
   <h3>🗄️ Database & Backend</h3>
 
@@ -258,7 +252,7 @@
 
   <br/><br/>
 
-  <!-- AI -->
+  <!-- AI AND MACHINE LEARNING -->
 
   <h3>🤖 AI & Machine Learning</h3>
 
@@ -272,7 +266,7 @@
 
   <br/><br/>
 
-  <!-- TOOLS -->
+  <!-- TOOLS AND PLATFORMS -->
 
   <h3>☁️ Tools & Platforms</h3>
 
@@ -297,21 +291,45 @@
 
 <div align="center">
 
-  <a href="https://github.com/Iron792">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iron792&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=07111F&title_color=00E5FF&icon_color=00B4D8&text_color=EAFBFF" alt="GitHub Stats" />
-  </a>
+  <!-- GitHub Stats -->
 
   <a href="https://github.com/Iron792">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron792&layout=compact&theme=transparent&hide_border=true&bg_color=07111F&title_color=00E5FF&text_color=EAFBFF" alt="Top Languages" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Iron792&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=07111F&title_color=00E5FF&icon_color=00B4D8&text_color=EAFBFF"
+      alt="GitHub Statistics"
+      width="49%"
+    />
+  </a>
+
+  <!-- Top Languages -->
+
+  <a href="https://github.com/Iron792">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron792&layout=compact&hide_border=true&langs_count=8&bg_color=07111F&title_color=00E5FF&text_color=EAFBFF"
+      alt="Top Languages"
+      width="49%"
+    />
   </a>
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iron792&theme=transparent&hide_border=true&background=07111F&ring=00E5FF&fire=00B4D8&currStreakLabel=00E5FF&sideLabels=00B4D8&currStreakNum=EAFBFF&sideNums=EAFBFF&dates=7FADB8" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+
+  <img
+    src="https://streak-stats.demolab.com?user=Iron792&theme=dark&hide_border=true&background=07111F&ring=00E5FF&fire=00B4D8&currStreakLabel=00E5FF&sideLabels=00B4D8&currStreakNum=EAFBFF&sideNums=EAFBFF&dates=7FADB8"
+    alt="GitHub Contribution Streak"
+    width="95%"
+  />
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iron792&theme=github_dark" width="95%" alt="GitHub Profile Summary" />
+  <!-- Profile Summary -->
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iron792&theme=github_dark"
+    alt="GitHub Profile Summary"
+    width="95%"
+  />
 
 </div>
 
@@ -325,7 +343,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iron792&bg_color=07111F&color=EAFBFF&line=00E5FF&point=00B4D8&area=true&area_color=003B49&hide_border=true&custom_title=Ironix7%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Iron792&bg_color=07111F&color=EAFBFF&line=00E5FF&point=00B4D8&area=true&hide_border=true"
+    alt="Iron792 Contribution Activity Graph"
+    width="100%"
+  />
 
 </div>
 
@@ -354,9 +376,7 @@
   </tr>
 
   <tr>
-    <td>
-      <b>🎵 Music X</b>
-    </td>
+    <td><b>🎵 Music X</b></td>
     <td>
       An offline Android music player with a local music library,
       synchronized lyrics, dynamic themes, favorites, playlists,
@@ -368,9 +388,7 @@
   </tr>
 
   <tr>
-    <td>
-      <b>🎧 xTune</b>
-    </td>
+    <td><b>🎧 xTune</b></td>
     <td>
       A music streaming web application integrating JioSaavn
       and YouTube with search, playback, lyrics, and a modern
@@ -382,9 +400,7 @@
   </tr>
 
   <tr>
-    <td>
-      <b>🤖 Nova AI</b>
-    </td>
+    <td><b>🤖 Nova AI</b></td>
     <td>
       An AI-powered Android assistant featuring voice interaction,
       speech recognition, text-to-speech, and hands-free functionality.
@@ -395,9 +411,7 @@
   </tr>
 
   <tr>
-    <td>
-      <b>📄 X Doc Scanner</b>
-    </td>
+    <td><b>📄 X Doc Scanner</b></td>
     <td>
       A document-scanning Android application designed to simplify
       document capture and scanning using Google's ML Kit.
@@ -408,9 +422,7 @@
   </tr>
 
   <tr>
-    <td>
-      <b>💬 ChatGPT Clone</b>
-    </td>
+    <td><b>💬 ChatGPT Clone</b></td>
     <td>
       An Android conversational AI application with API-powered
       responses, voice input, text-to-speech, and hands-free interaction.
@@ -421,9 +433,7 @@
   </tr>
 
   <tr>
-    <td>
-      <b>🛒 X Cart</b>
-    </td>
+    <td><b>🛒 X Cart</b></td>
     <td>
       An e-commerce application concept focused on shopping,
       payment integration, location services, and modern user experience.
@@ -434,9 +444,7 @@
   </tr>
 
   <tr>
-    <td>
-      <b>🌐 Developer Portfolio</b>
-    </td>
+    <td><b>🌐 Developer Portfolio</b></td>
     <td>
       My personal portfolio showcasing my development journey,
       projects, technical skills, and contact information.
@@ -445,7 +453,6 @@
       React, Next.js, TypeScript, Vercel
     </td>
   </tr>
-
 </table>
 
 <br/>
@@ -540,9 +547,7 @@
 
   <br/><br/>
 
-  <h3>
-    <img src="https://img.shields.io/badge/BUILDING-THE_FUTURE-00B4D8?style=for-the-badge&logo=android&logoColor=white" />
-  </h3>
+  <h3>⚡ Building the Future, One App at a Time.</h3>
 
 </div>
 
