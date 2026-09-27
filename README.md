@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
+<!-- ═══════════════ HERO ═══════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:5C1010,100:B22222&height=200&section=header&text=MANISH%20CHIDAR&fontSize=48&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=ANDROID%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=60&descSize=17&descColor=00D9FF" width="100%"/>
 
@@ -14,7 +14,7 @@
 
 **Android Developer | AI Enthusiast | Full-Stack Developer**
 
-📍 Bhopal, India &nbsp; • &nbsp; 🎓 B.Tech IT Student
+📍 Bhopal, India &nbsp;|&nbsp; 🎓 B.Tech IT Student &nbsp;|&nbsp; ⚡ Ironix7
 
 <br/>
 
@@ -25,23 +25,21 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manish7924&style=for-the-badge&color=B22222&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Iron792&style=for-the-badge&color=B22222&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-
-## ⚡ About Me
+## 👨‍💻 About Me
 
 Hey! I'm **Manish Chidar**, an Android developer and technology enthusiast who loves building applications that combine intelligent functionality with beautiful user experiences.
 
 I'm currently pursuing a **B.Tech in Information Technology** at Oriental College of Technology, Bhopal.
 
-My interests span Android development, AI-powered applications, full-stack web development, and building tools that solve real-world problems.
+My interests span Android development, artificial intelligence, full-stack engineering, cybersecurity, and emerging technologies.
 
-I believe great software should be powerful under the hood and effortless to use.
+I enjoy turning ideas into functional applications, experimenting with new technologies, and building software that solves real-world problems.
 
 ```kotlin
 package com.ironix7.developer
@@ -62,12 +60,13 @@ val manish = Developer(
         "Android Development",
         "Artificial Intelligence",
         "Full-Stack Development",
-        "UI/UX Engineering"
+        "Cybersecurity",
+        "Web3 & Blockchain"
     ),
     currentlyBuilding = listOf(
+        "Music X",
         "xTune",
-        "Nova AI",
-        "Music X"
+        "Nova AI"
     )
 )
 
