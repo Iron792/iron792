@@ -8,16 +8,16 @@
   <!-- ANIMATED INTRO -->
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Iron7+%F0%9F%91%8B;Android+Developer+%7C+Full-Stack+Developer;Building+Ideas+Into+Reality;Welcome+to+My+Digital+Workshop!" alt="Ironix7 Animated Intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Iron7+%F0%9F%91%8B;Android+Developer+%7C+Full-Stack+Developer;Building+Ideas+Into+Reality;Welcome+to+My+Digital+Workshop!" alt="Ironic7 Animated Intro"/>
   </a>
 
   <br/>
 
   <!-- HEADER BANNER -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:003B49,75:007F91,100:00B4D8&height=200&section=header&text=IRONIX7&fontSize=70&fontColor=EAFBFF&animation=fadeIn&fontAlignY=35&desc=Code.%20Create.%20Innovate.&descAlignY=57&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:003B49,75:007F91,100:00B4D8&height=200&section=header&text=𝕀𝕣⎊𝕟7&fontSize=70&fontColor=EAFBFF&animation=fadeIn&fontAlignY=35&desc=Code.%20Create.%20Innovate.&descAlignY=57&descSize=22" width="100%"/>
 
-  <h3>🚀 Android Developer | Full-Stack Developer | Tech Enthusiast</h3>
+  <h3>Android Developer | Full-Stack Developer | Tech Enthusiast</h3>
 
   <p><i>Turning ideas into applications, one line of code at a time.</i></p>
 
